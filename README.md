@@ -1,3 +1,3 @@
 我的配置
 
-![image](images/ludashi.jpg)
+![image](https://raw.githubusercontent.com/bwcxyk/Hackintosh/master/ludashi.jpg)
