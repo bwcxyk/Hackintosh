@@ -1,3 +1,3 @@
 我的配置
 
-![](ludashi.jpg)
+![](./ludashi.jpg)
